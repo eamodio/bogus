@@ -1,4 +1,3 @@
 # bogus
-More edits!sdf
-dgsdgd
-gsd
+
+Here are some edits!
