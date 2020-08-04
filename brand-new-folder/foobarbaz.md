@@ -1,3 +1,3 @@
 create me
 1st edit
-conflict
+2nd edit
