@@ -3,3 +3,4 @@ conflict 1
 bar
 safafs
 asasgasag
+foo
