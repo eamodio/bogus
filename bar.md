@@ -4,3 +4,4 @@ bar
 safafs
 asasgasag
 foo
+bar
