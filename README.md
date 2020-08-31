@@ -1,9 +1,3 @@
 # bogus
 
-Here are some edits!
-
-
-Testingdfdsdf
-dsfdsgs
-
-dsgs
+Let's get started on some new changes
