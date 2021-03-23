@@ -1,6 +1,6 @@
 # bogus
 
-Here are some edits!
+Here are some conflicting edits!
 
 
 Testingdfdsdf
