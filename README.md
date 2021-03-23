@@ -1,7 +1,5 @@
 # bogus
 
-Here are even more conflicting edits!
-
 
 Testing
 
