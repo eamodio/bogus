@@ -1,4 +1,4 @@
-# bogus - foo bar baz foop farp fdgsfd
+# bogus
 
 
 [![](https://vsmarketplacebadge.apphb.com/version-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
