@@ -6,7 +6,7 @@
 [![](https://aka.ms/vsls-badge)](https://aka.ms/vsls-gitlens)
 [![](https://img.shields.io/badge/vscode--dev--community-gitlens-blue.svg?logo=slack&labelColor=555555)](https://vscode-slack.amod.io)
 
-<p align="center">
+<p align="center">fdsfsfds
   <br />
   <a title="Learn more about GitLens" href="https://gitlens.amod.io"><img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/gitlens-logo.png" alt="GitLens Logo" /></a>
 </p>
