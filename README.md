@@ -1,4 +1,4 @@
-# More Edits NO
+# More Edits NO blah
 
 [![](https://vsmarketplacebadge.apphb.com/version-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 [![](https://vsmarketplacebadge.apphb.com/downloads-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
@@ -17,6 +17,8 @@
   <br />
   <a title="What's New in GitLens 11" href="https://gitlens.amod.io/#whats-new"><img src="https://raw.githubusercontent.com/eamodio/vscode-gitlens/main/images/docs/whats-new-button.png" alt="What's New in GitLens 11 Button" /></a>
 </p>
+
+foo
 
 ## Sponsor GitLens
 
