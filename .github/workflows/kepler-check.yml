@@ -1,0 +1,10 @@
+name: kepler-check
+on:
+  pull_request:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pass only when PASS exists
+        run: test -f PASS
